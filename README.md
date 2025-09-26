@@ -1,10 +1,10 @@
 # Resolvendo Códigos em Python com o GitHub Copilot
 
-Olá!! Aqui veremos algumas resoluções de códigos em python utilizando o GitHub Copilot.
+Olá! Aqui veremos algumas resoluções de códigos em python utilizando o GitHub Copilot.
 
 ### Atenção ⚠️ 
 
-Não tem acesso ao GitHub Copilot.Não tem problema! Pode utilizar o [ChatGPT](https://chatgpt.com/) como seu copiloto de estudos...
+Não tem acesso ao GitHub Copilot? Não tem problema! Pode utilizar o [ChatGPT](https://chatgpt.com/) como seu copiloto de estudos...
 
 ## 1 - Concatenando Dados 🐾
 
